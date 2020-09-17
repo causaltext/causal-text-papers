@@ -1,4 +1,4 @@
-# Fun Causal Text Papers!
+# Papers about Causal Inference and Language
 
 A collection of papers and codebases about influence, causality, and language. 
 
@@ -9,7 +9,7 @@ TODO - should we double-count papers?
 
 # Datasets and Simulations
 
-# Causal  Inference  Theory  for  Language
+# Causal  Inference  with Text Variables
 
 ## Text as treatment
 
@@ -17,14 +17,17 @@ TODO - should we double-count papers?
 
 ## Text as outcome
 
+## Text as confounder
 
-# Language Processing Systems and Causality
+
+# Causality to Improve NLP
 
 ## Causal interpretations and explanations 
 
-## Sensitivity and Rhobustness
+## Sensitivity and Robustness
 
-# Society, Language, Influence and Causality
+
+# Influential and Persuasive effects of Language
 
 ## Persuasion 
 
