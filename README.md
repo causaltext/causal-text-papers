@@ -27,7 +27,7 @@ TODO - should we double-count papers?
 ## Sensitivity and Robustness
 
 
-# Influential and Persuasive effects of Language
+# Applications in in the Computational Social Sciences
 
 ## Persuasion 
 
