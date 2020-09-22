@@ -17,6 +17,7 @@ TODO - should we double-count papers?
 # Learning resources and blog posts
 
 http://ai.stanford.edu/blog/text-causal-inference/
+https://arxiv.org/pdf/2005.00649.pdf
 
 | Title | Description | Code |
 |-------|-------------|------|
