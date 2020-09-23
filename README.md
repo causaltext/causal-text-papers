@@ -35,7 +35,6 @@ TODO - should we double-count papers?
 
 ## Text as mediator
 
-https://arxiv.org/pdf/1905.12741.pdf
 
 | Title | Description | Code |
 |-------|-------------|------|
@@ -44,7 +43,6 @@ https://arxiv.org/pdf/1905.12741.pdf
 
 ## Text as outcome
 
-https://arxiv.org/pdf/1906.04177.pdf
 
 | Title | Description | Code |
 |-------|-------------|------|
