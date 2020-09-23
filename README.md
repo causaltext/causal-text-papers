@@ -102,15 +102,20 @@ TODO - should we double-count papers?
 
 ## Psychology
 
-https://link.springer.com/article/10.1007/s11109-016-9373-5
 https://doi.org/10.1037/hea0001025
 
 | Title | Description | Code |
 |-------|-------------|------|
-|       |             |      |
+|  [Five-Star Prices, Appealing Healthy Item Descriptions? Expensive Restaurants’ Descriptive Menu Language](https://psycnet.apa.org/fulltext/2020-68187-001.html)  <br> Bradley Turnwald, Kathryn Anderson, Dan Jurafsky, Alia Crum  |   Did RCT on cafeteria food labels, observing effect on how much of those foods students took.     |      |
 |       |             |      |
 
+## Political Science
 
+
+| Title | Description | Code |
+|-------|-------------|------|
+| [Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment](https://link.springer.com/article/10.1007/s11109-016-9373-5)    <br> Kevin Munger  |   Did RCT sending de-escalation messages to racist twitter users, changing the "from" user and observing effects on downstream behavior.     |      |
+|       |             |      |
 
 EXAMPLE
 
