@@ -39,7 +39,7 @@ https://arxiv.org/pdf/1905.12741.pdf
 
 | Title | Description | Code |
 |-------|-------------|------|
-|       |             |      |
+| [Adapting Text Embeddings for Causal Inference](https://arxiv.org/pdf/1905.12741.pdf) <br> Victor Veitch, Dhanya Sridhar, and David Blei      |  (also text as confounder) Adapts BERT embeddings for causal inference by predicting propensity scores and potential outcomes alongside masked language modeling objective.      |  [tensorflow](https://github.com/blei-lab/causal-text-embeddings) <br> [pytorch](https://github.com/rpryzant/causal-bert-pytorch)    |
 |       |             |      |
 
 ## Text as outcome
@@ -48,7 +48,7 @@ https://arxiv.org/pdf/1906.04177.pdf
 
 | Title | Description | Code |
 |-------|-------------|------|
-|       |             |      |
+|  [Estimating Causal Effects of Tone in Online Debates](https://arxiv.org/pdf/1906.04177.pdf) <br> Dhanya Sridhar and Lise Getoor    |  Looks at effect of reply tone on the sentiment of subsiquent responses in online debates.         | [git](https://github.com/dsridhar91/debate-causal-effects)     |
 |       |             |      |
 
 ## Text as confounder
