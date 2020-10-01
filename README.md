@@ -75,7 +75,7 @@ TODO - should we double-count papers?
 |       |             |      |
 
 
-# Social Sciences
+# Social Science Applications
 
 ## Marketing 
 
