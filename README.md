@@ -75,7 +75,7 @@ TODO - should we double-count papers?
 |       |             |      |
 
 
-# Applications in the Social Sciences
+# Social Sciences
 
 ## Marketing 
 
@@ -91,19 +91,18 @@ TODO - should we double-count papers?
 
 | Title | Description | Code |
 |-------|-------------|------|
-|       |             |      |
+| [Let’s Make Your Request More Persuasive: Modeling Persuasive Strategies via Semi-Supervised Neural Nets on Crowdfunding Platforms](https://www.aclweb.org/anthology/N19-1364.pdf) <br> Diyi Yang, Jiaao Chen, Zichao Yang, Dan Jurafsky, and Eduard Hovy      |   Found persuasive strategies that cause higher crowdfunding donation rates.     |   [git](https://github.com/jiaaoc/Persuasion_Strategy)   |
 |       |             |      |
 
-## Framing 
+## Mental Health / Social Good 
 
 | Title | Description | Code |
 |-------|-------------|------|
-|       |             |      |
+| [Quantifying the Causal Efects of Conversational Tendencies](https://www.cs.cornell.edu/~cristian/Causal_effects_of_conversational_tendencies_files/causality_conversations.pdf) <br> Zhang, Justine, Sendhil Mullainathan, and Cristian Danescu-Niculescu-Mizil     |   Studied the effects of "conversational tendencies" (meta attributes like message length, response time, etc) on crisis counseling outcomes (whether the conversation was helpful or not to the client).       |      |
 |       |             |      |
 
 ## Psychology
 
-https://doi.org/10.1037/hea0001025
 
 | Title | Description | Code |
 |-------|-------------|------|
