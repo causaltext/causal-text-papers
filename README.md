@@ -53,7 +53,7 @@ TODO - should we double-count papers?
 
 | Title | Description | Code |
 |-------|-------------|------|
-|       |             |      |
+| [Adjusting for confounding with text matching](https://scholar.princeton.edu/sites/default/files/bstewart/files/textmatching_preprint.pdf) <br> Margaret Roberts, Brandon Stewart, and Richard Nielsen      |    Propose method for text matching via a combination of low-dimensional representations and propsensity scores.           |      |
 |       |             |      |
 
 
