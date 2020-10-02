@@ -14,7 +14,7 @@ TODO - should we double-count papers?
 |       |             |      |
 |       |             |      |
 
-# Meta/educational
+# Learning resources and blog posts
 
 | Title | Description | Code |
 |-------|-------------|------|
