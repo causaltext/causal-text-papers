@@ -128,7 +128,7 @@ https://doi.org/10.1037/hea0001025
 
 | Title | Description | Code |
 |-------|-------------|------|
-|  [Five-Star Prices, Appealing Healthy Item Descriptions? Expensive Restaurants’ Descriptive Menu Language](https://psycnet.apa.org/fulltext/2020-68187-001.html)  <br> Bradley Turnwald, Kathryn Anderson, Dan Jurafsky, Alia Crum  |   Did RCT on cafeteria food labels, observing effect on how much of those foods students took.     |      |
+|  [Increasing vegetable intake by emphasizing tasty and enjoyable attributes: A randomized controlled multisite intervention for taste-focused labeling](https://journals.sagepub.com/doi/pdf/10.1177/0956797619872191)  <br> Bradley Turnwald, Jaclyn Bertoldo, Margaret Perry, Peggy Policastro, Maureen Timmons, Christopher Bosso, Priscilla Connors, Robert Valgenti, Lindsey Pine, Ghislaine Challamel, Christopher Gardner, Alia Crum  |   Did RCT on cafeteria food labels, observing effect on how much of those foods students took.     |      |
 |       |             |      |
 
 ## Political Science
