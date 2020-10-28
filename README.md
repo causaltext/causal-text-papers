@@ -4,7 +4,6 @@ A collection of papers and codebases about influence, causality, and language.
 
 _Pull requests welcome!_
 
-TODO - should we double-count papers? 
 
 
 # Datasets and Simulations
