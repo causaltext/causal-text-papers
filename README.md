@@ -96,6 +96,13 @@ _Pull requests welcome!_
 
 # Applications in the Social Sciences
 
+## Linguistics 
+
+| Title | Description | Code |
+|-------|-------------|------|
+| [Decoupling entrainment from consistency using deep neural networks](https://arxiv.org/abs/2011.01860) <br> Andreas Weise, Rivka Levitan     |  Isolated the individual style of a speaker when modeling entrainment in speech.     |     |
+
+
 ## Marketing 
 
 
@@ -124,7 +131,6 @@ _Pull requests welcome!_
 
 ## Psychology
 
-https://doi.org/10.1037/hea0001025
 
 | Title | Description | Code |
 |-------|-------------|------|
@@ -142,3 +148,4 @@ https://doi.org/10.1037/hea0001025
 EXAMPLE
 
 https://github.com/rguo12/awesome-causality-algorithms
+
