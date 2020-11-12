@@ -83,8 +83,8 @@ _Pull requests welcome!_
 
 | Title | Description | Code |
 |-------|-------------|------|
-|       |             |      |
-|       |             |      |
+| [CausaLM: Causal Model Explanation Through Counterfactual Language Models](https://arxiv.org/pdf/2005.13407.pdf) <br> Amir Feder, Nadav Oved, Uri Shalit and Roi Reichart     |  Suggested a method for generating causal explanations through counterfactual language representations.     |  [git](https://github.com/amirfeder/CausaLM)    |
+| [Causal Mediation Analysis for Interpreting Neural NLP: The Case of Gender Bias](https://arxiv.org/pdf/2004.12265.pdf) <br> Jesse Vig, Sebastian Gehrmann, Yonatan Belinkov, Sharon Qian, Daniel Nevo, Yaron Singer and Stuart Shieber     |  Uses causal mediation analysis to interpret NLP models.     |  [git](https://github.com/sebastianGehrmann/CausalMediationAnalysis)    |
 
 ## Sensitivity and Robustness
 
