@@ -145,7 +145,4 @@ _Pull requests welcome!_
 | [Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment](https://link.springer.com/article/10.1007/s11109-016-9373-5)    <br> Kevin Munger  |   Did RCT sending de-escalation messages to racist twitter users, changing the "from" user and observing effects on downstream behavior.     |      |
 |       |             |      |
 
-EXAMPLE
-
-https://github.com/rguo12/awesome-causality-algorithms
 
