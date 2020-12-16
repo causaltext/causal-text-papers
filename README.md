@@ -53,7 +53,7 @@ _Pull requests welcome!_
 |  [Estimating Causal Effects of Tone in Online Debates](https://arxiv.org/pdf/1906.04177.pdf) <br> Dhanya Sridhar and Lise Getoor    |  (Also text as confounder). Looks at effect of reply tone on the sentiment of subsiquent responses in online debates.         | [git](https://github.com/dsridhar91/debate-causal-effects)     |
 |       |             |      |
 
-## Text as confounder (methods)
+## Text as confounder
 
 | Title | Description | Code |
 |-------|-------------|------|
@@ -62,19 +62,6 @@ _Pull requests welcome!_
 | [Matching with text data: An experimental evaluation of methods for matching documents and of measuring match quality](https://arxiv.org/pdf/1801.00644) <br> Reagan Mozer, Luke Miratrix, Aaron Russell Kaufman, L Jason Anastasopoulos | Characterizes and empirically evaluates a framework for matching text documents that decomposes existing methods into: the choice of text representation, and the choice of distance metric.||
 | [Learning representations for counterfactual inference](http://www.jmlr.org/proceedings/papers/v48/johansson16.pdf) <br> Fredrik Johansson, Uri Shalit, David Sontag | One of their semi-synthetic experiments has news content as a confounder. | |
 
-
-## Text as confounder (applications)
-| Title | Description | Code |
-|-------|-------------|------|
-| [The language of social support in social media and its effect on suicidal ideation risk](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5565730/) <br> Munmun De Choudhury and Emre Kiciman | Confouder: previous text written in a Reddit forum. Confounding adjustment method: stratified propensity scores matching.   || 
-|[Discovering shifts to suicidal ideation from mental health content in social media](https://dl.acm.org/doi/pdf/10.1145/2858036.2858207?casa_token=ZJKLrg8LAOsAAAAA:ecs8HsunRyeUeD_De6Dx15_nPRZ1-mmjiXfAEXLpr25wwz6ywzQcJuZqWjJQIyibEGxZTOkULd1h) <br> Munmun De Choudhury, Emre Kiciman, Mark Dredze, Glen Coppersmith, Mrinal Kumar | Confouder: User’s previous posts and comments received. Confounding adjustment method: stratified propensity scores matching | |
-| [Estimating the effect of exercising on users online behavior](http://ls3.rnet.ryerson.ca/wiki/images/e/e0/Ossm2017-amin.pdf) <br> Seyed Amin Mirlohi Falavarjani, Hawre Hosseini, Zeinab Noorian, Ebrahim Bagheri| Confouder: Pre-treatment topical interest shift. Confounding adjustment method: Matching on topic models. ||
-| [Distilling the outcomes of personal experiences: A propensity-scored analysis of social media](https://dl.acm.org/doi/pdf/10.1145/2998181.2998353?casa_token=U8iCSHz-uGUAAAAA:i9qcF0UCEH-lYKhTE9aA5RNMxFlvqfPW0tiHtUsh_lkmdV1F1O9ko9jPIl_nb8Cx5Rbtf4nn5JGq) <br> Alexandra Olteanu, Onur Varol, Emre Kiciman | Confouder: Past word use on Twitter. Confoudnig adjustment method: Stratified propensity score matching. ||
-| [A deep causal inference approach to measuring the effects of forming group loans in online non-profit microfinance platform](https://arxiv.org/pdf/1706.02795) <br> Thai T Pham and Yuanyuan Shen | Confounder: Microloan descriptions on Kiva. Confounding adjustment method: A-IPTW, TMLE on embeddings. ||
-| [Using longitudinal social media analysis to understand the effects of early college alcohol use](http://kiciman.org/wp-content/uploads/2018/10/college_alcohol_tweets_icwsm18e.pdf) <br> Emre Kiciman, Scott Counts, Melissa Gasser |Confounder: Previous posts on Twitter. Confounding adjustment method: Stratified propensity score matching. ||
-| [Estimating causal effects of exercise from mood logging data](https://linqs.soe.ucsc.edu/sites/default/files/papers/sridhar-causalml18_1.pdf) <br> Dhanya Sridhar, Aaron Springer, Victoria Hollis, Steve Whittaker, Lise Getoor |Confouder:  Text of mood triggers. Confounding adjustment method: Propensity score matching ||
-| [A social media study on the effects of psychiatric medication use](https://www.aaai.org/ojs/index.php/ICWSM/article/download/3242/3110/) <br> Koustuv Saha, Benjamin Sugar, John Torous, Bruno Abrahao, Emre Kıcıman, Munmun De Choudhury | Confounder: users' previous posts on Twitter. Confounding adjustment method: Stratified propensity score matching.|
-| [Influence via Ethos: On the Persuasive Power of Reputation in Deliberation Online](https://arxiv.org/pdf/2006.00707.pdf) <br> Emaad Manzoor, George H. Chen, Dokyun Lee, Michael D. Smith |Controls for unstructured argument text using neural models of language in the double machine-learning framework.||
 
 
 # Causality to Improve NLP
@@ -101,6 +88,7 @@ _Pull requests welcome!_
 | Title | Description | Code |
 |-------|-------------|------|
 | [Decoupling entrainment from consistency using deep neural networks](https://arxiv.org/abs/2011.01860) <br> Andreas Weise, Rivka Levitan     |  Isolated the individual style of a speaker when modeling entrainment in speech.     |     |
+| [Estimating causal effects of exercise from mood logging data](https://linqs.soe.ucsc.edu/sites/default/files/papers/sridhar-causalml18_1.pdf) <br> Dhanya Sridhar, Aaron Springer, Victoria Hollis, Steve Whittaker, Lise Getoor |Confouder:  Text of mood triggers. Confounding adjustment method: Propensity score matching ||
 
 
 ## Marketing 
@@ -117,17 +105,15 @@ _Pull requests welcome!_
 
 | Title | Description | Code |
 |-------|-------------|------|
-|       |             |      |
+| [Influence via Ethos: On the Persuasive Power of Reputation in Deliberation Online](https://arxiv.org/pdf/2006.00707.pdf) <br> Emaad Manzoor, George H. Chen, Dokyun Lee, Michael D. Smith |Controls for unstructured argument text using neural models of language in the double machine-learning framework.||
 |       |             |      |
 
-## Framing 
-
-| Title | Description | Code |
-|-------|-------------|------|
-|       |             |      |
-|       |             |      |
 
 ## Mental Health 
+| Title | Description | Code |
+|-------|-------------|------|
+| [The language of social support in social media and its effect on suicidal ideation risk](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5565730/) <br> Munmun De Choudhury and Emre Kiciman | Confouder: previous text written in a Reddit forum. Confounding adjustment method: stratified propensity scores matching.   || 
+|[Discovering shifts to suicidal ideation from mental health content in social media](https://dl.acm.org/doi/pdf/10.1145/2858036.2858207?casa_token=ZJKLrg8LAOsAAAAA:ecs8HsunRyeUeD_De6Dx15_nPRZ1-mmjiXfAEXLpr25wwz6ywzQcJuZqWjJQIyibEGxZTOkULd1h) <br> Munmun De Choudhury, Emre Kiciman, Mark Dredze, Glen Coppersmith, Mrinal Kumar | Confouder: User’s previous posts and comments received. Confounding adjustment method: stratified propensity scores matching | |
 
 ## Psychology
 
@@ -135,14 +121,22 @@ _Pull requests welcome!_
 | Title | Description | Code |
 |-------|-------------|------|
 |  [Increasing vegetable intake by emphasizing tasty and enjoyable attributes: A randomized controlled multisite intervention for taste-focused labeling](https://journals.sagepub.com/doi/pdf/10.1177/0956797619872191)  <br> Bradley Turnwald, Jaclyn Bertoldo, Margaret Perry, Peggy Policastro, Maureen Timmons, Christopher Bosso, Priscilla Connors, Robert Valgenti, Lindsey Pine, Ghislaine Challamel, Christopher Gardner, Alia Crum  |   Did RCT on cafeteria food labels, observing effect on how much of those foods students took.     |      |
-|       |             |      |
+| [A social media study on the effects of psychiatric medication use](https://www.aaai.org/ojs/index.php/ICWSM/article/download/3242/3110/) <br> Koustuv Saha, Benjamin Sugar, John Torous, Bruno Abrahao, Emre Kıcıman, Munmun De Choudhury | Confounder: users' previous posts on Twitter. Confounding adjustment method: Stratified propensity score matching.|
 
-## Political Science
+## Economics 
+| Title | Description | Code |
+|-------|-------------|------|
+| [A deep causal inference approach to measuring the effects of forming group loans in online non-profit microfinance platform](https://arxiv.org/pdf/1706.02795) <br> Thai T Pham and Yuanyuan Shen | Confounder: Microloan descriptions on Kiva. Confounding adjustment method: A-IPTW, TMLE on embeddings. ||
+
+
+## Social Media
 
 
 | Title | Description | Code |
 |-------|-------------|------|
 | [Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment](https://link.springer.com/article/10.1007/s11109-016-9373-5)    <br> Kevin Munger  |   Did RCT sending de-escalation messages to racist twitter users, changing the "from" user and observing effects on downstream behavior.     |      |
-|       |             |      |
+| [Estimating the effect of exercising on users online behavior](http://ls3.rnet.ryerson.ca/wiki/images/e/e0/Ossm2017-amin.pdf) <br> Seyed Amin Mirlohi Falavarjani, Hawre Hosseini, Zeinab Noorian, Ebrahim Bagheri| Confouder: Pre-treatment topical interest shift. Confounding adjustment method: Matching on topic models. ||
+| [Distilling the outcomes of personal experiences: A propensity-scored analysis of social media](https://dl.acm.org/doi/pdf/10.1145/2998181.2998353?casa_token=U8iCSHz-uGUAAAAA:i9qcF0UCEH-lYKhTE9aA5RNMxFlvqfPW0tiHtUsh_lkmdV1F1O9ko9jPIl_nb8Cx5Rbtf4nn5JGq) <br> Alexandra Olteanu, Onur Varol, Emre Kiciman | Confouder: Past word use on Twitter. Confoudnig adjustment method: Stratified propensity score matching. ||
+| [Using longitudinal social media analysis to understand the effects of early college alcohol use](http://kiciman.org/wp-content/uploads/2018/10/college_alcohol_tweets_icwsm18e.pdf) <br> Emre Kiciman, Scott Counts, Melissa Gasser |Confounder: Previous posts on Twitter. Confounding adjustment method: Stratified propensity score matching. ||
 
 
