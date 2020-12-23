@@ -8,10 +8,10 @@ _Pull requests welcome!_
 
 # Datasets and Simulations
 
-| Title | Description | Code |
-|-------|-------------|------|
-|       |             |      |
-|       |             |      |
+| Type | Description |   Code |
+|-------|--|----|
+|  Semi-simulated    | Given text (amazon reviews), extracts treatments (0 or 5 stars) and confounds (product type), then samples outcomes (sales) conditioned on the extracted treatments and confounds. |    [git](https://github.com/rpryzant/causal-text/blob/main/src/simulation.py)  |
+|     Fully synthetic  |   Samples outcomes, treatments, and confounds from binomial distributions, then words from a uniform distribution conditioned on those sampled variables.      |  [git](https://github.com/zachwooddoughty/emnlp2018-causal/blob/master/datasets.py)    |
 
 # Learning resources and blog posts
 
