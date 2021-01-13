@@ -52,6 +52,7 @@ _Pull requests welcome!_
 |-------|-------------|------|
 |  [Estimating Causal Effects of Tone in Online Debates](https://arxiv.org/pdf/1906.04177.pdf) <br> Dhanya Sridhar and Lise Getoor    |  (Also text as confounder). Looks at effect of reply tone on the sentiment of subsiquent responses in online debates.         | [git](https://github.com/dsridhar91/debate-causal-effects)     |
 |  [How Judicial Identity Changes the Text of Legal Rulings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2620781) <br> Michael Gill and Andrew Hall |  Looks at how the random assignment of a female judge or a non-white judge affects the language of legal rulings. |      |
+| [Measuring semantic similarity of clinical trial outcomes using deep pre-trained language representations](https://www.sciencedirect.com/science/article/pii/S2590177X19300575)<br> Anna Koroleva,  Sanjay Kamath,  Patrick Paroubek ||
 
 ## Text as confounder
 
