@@ -130,12 +130,14 @@ _Pull requests welcome!_
 | [A deep causal inference approach to measuring the effects of forming group loans in online non-profit microfinance platform](https://arxiv.org/pdf/1706.02795) <br> Thai T Pham and Yuanyuan Shen | Confounder: Microloan descriptions on Kiva. Confounding adjustment method: A-IPTW, TMLE on embeddings. ||
 
 
-## Social Media
 
-
+## Bias and Fairness
 | Title | Description | Code |
 |-------|-------------|------|
+|   [Unsupervised Discovery of Implicit Gender Bias](https://arxiv.org/pdf/2004.08361.pdf) | Propensity score matching and adversarial learning to get a model to focus on bias instead of other artifacts. | |
 | [Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment](https://link.springer.com/article/10.1007/s11109-016-9373-5)    <br> Kevin Munger  |   Did RCT sending de-escalation messages to racist twitter users, changing the "from" user and observing effects on downstream behavior.     |      |
+
+## Social Media
 | [Estimating the effect of exercising on users online behavior](http://ls3.rnet.ryerson.ca/wiki/images/e/e0/Ossm2017-amin.pdf) <br> Seyed Amin Mirlohi Falavarjani, Hawre Hosseini, Zeinab Noorian, Ebrahim Bagheri| Confouder: Pre-treatment topical interest shift. Confounding adjustment method: Matching on topic models. ||
 | [Distilling the outcomes of personal experiences: A propensity-scored analysis of social media](https://dl.acm.org/doi/pdf/10.1145/2998181.2998353?casa_token=U8iCSHz-uGUAAAAA:i9qcF0UCEH-lYKhTE9aA5RNMxFlvqfPW0tiHtUsh_lkmdV1F1O9ko9jPIl_nb8Cx5Rbtf4nn5JGq) <br> Alexandra Olteanu, Onur Varol, Emre Kiciman | Confouder: Past word use on Twitter. Confoudnig adjustment method: Stratified propensity score matching. ||
 | [Using longitudinal social media analysis to understand the effects of early college alcohol use](http://kiciman.org/wp-content/uploads/2018/10/college_alcohol_tweets_icwsm18e.pdf) <br> Emre Kiciman, Scott Counts, Melissa Gasser |Confounder: Previous posts on Twitter. Confounding adjustment method: Stratified propensity score matching. ||
