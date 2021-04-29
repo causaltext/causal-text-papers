@@ -17,10 +17,11 @@ _Pull requests welcome!_
 
 | Title | Description | Code |
 |-------|-------------|------|
-| [Text and Causal Inference: A Review of Using Text to Remove Confounding from Causal Estimates](https://arxiv.org/pdf/2005.00649.pdf) <br> Katherine A. Keith, David Jensen, and Brendan O’Connor   |  Survey of studies that use text to remove confouding. Also highlights numerous open problems in the space of text and causal inference. |      |
+|  [Text and Causal Inference: A Review of Using Text to Remove Confounding from Causal Estimates](https://arxiv.org/pdf/2005.00649.pdf) <br> Katherine A. Keith, David Jensen, and Brendan O’Connor   |  Survey of studies that use text to remove confouding. Also highlights numerous open problems in the space of text and causal inference. |      |
 |  [Text Feature Selection for Causal Inference](http://ai.stanford.edu/blog/text-causal-inference/) <br> Reid Pryzant and Dan Jurafsky    |   Blog post about text as treatment (operationalized through lexicons)        |   [git](https://github.com/rpryzant/causal_selection)   |
 |       |             |      |
-
+|  [Econometrics Meets Sentiment: An Overview of Methodology and Applications](https://doi.org/10.1111/joes.12370) <br> Andres Algaba, David Ardia, Keven Bluteau, Samuel Borms, and Kris Boudt    |   Survey summarizing various methods to transform alternative data (with a focus on text) into a variable, and use it in econometric models. Includes applications throughout.      |   [git](https://github.com/sborms/econometrics-meets-sentiment)   |
+|       |             |      |
 
 
 # Causal  Inference with Text Variables
