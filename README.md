@@ -82,7 +82,7 @@ _Pull requests welcome!_
 |-------|-------------|------|
 | [Robustness to Spurious Correlations in Text Classification via Automatically Generated Counterfactuals](https://arxiv.org/abs/2012.10040) <br> Zhao Wang and Aron Culotta     |  Matching to identify causal terms, then generate counterfactuals for training. | [git](https://github.com/tapilab/aaai-2021-counterfactuals)|
 | [Identifying Spurious Correlations for Robust Text Classification](https://arxiv.org/abs/2010.02458) <br> Zhao Wang and Aron Culotta     |  Matching to identify spurious word features | [git](https://github.com/tapilab/emnlp-2020-spurious)|
-| [Discovering and Controlling for Latent Confounds in Text Classification Using Adversarial Domain Adaptation](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975673.34) <br> Virgile Landeiro, Tuan Tran, and Aron Culotta     |  Control for unobserved confounders in text classification      | [git](https://github.com/tapilab/aaai-2016-robust)|
+| [Discovering and Controlling for Latent Confounds in Text Classification Using Adversarial Domain Adaptation](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975673.34) <br> Virgile Landeiro, Tuan Tran, and Aron Culotta     |  Control for unobserved confounders in text classification      | |
 | [Robust Text Classification under Confounding Shift](https://jair.org/index.php/jair/article/view/11248) <br> Virgile Landeiro and Aron Culotta     |  Control for changing confounders in text classification      | [git](https://github.com/tapilab/aaai-2016-robust)|
 
 
