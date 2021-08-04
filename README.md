@@ -37,6 +37,8 @@ _Pull requests welcome!_
 |  [How to Make Causal Inferences Using Texts](https://arxiv.org/pdf/1802.02163.pdf) <br> Naoki Egami, Christian J. Fong, Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart     |   (Also text as outcome). Covers assumptions needed for text as treatment and concludes that you should use a train/test set.        |      |
 | [Discovery of treatments from text corpora](https://www.aclweb.org/anthology/P16-1151.pdf) <br> Christian Fong, Justin Grimmer| Propose a new experimental design and statistical model to simultaneously discover treatments in a corpora and estimate causal effects for these discovered treatments. | 
 | [The effect of wording on message propagation: Topic and author-controlled natural experiments on twitter](https://arxiv.org/pdf/1405.1438.pdf) <br> Chenhao Tan, Lillian Lee, and Bo Pang | Controls for confouding by looking at Tweets containing the same url and written by the same user but employing different wording. | |
+| [When do Words Matter? Understanding the Impact of Lexical Choice on
+Audience Perception using Individual Treatment Effect Estimation](https://arxiv.org/abs/1811.04890) <br> Zhao Wang and Aron Culotta | Measure effect of words on reader's perception. Multiple quasi-experimental methods compared.| [git](https://github.com/tapilab/aaai-2019-words)|
 
 ## Text as mediator
 
@@ -79,8 +81,11 @@ _Pull requests welcome!_
 
 | Title | Description | Code |
 |-------|-------------|------|
-|       |             |      |
-|       |             |      |
+| [Robustness to Spurious Correlations in Text Classification via Automatically Generated Counterfactuals](https://arxiv.org/abs/2012.10040) <br> Zhao Wang and Aron Culotta     |  Matching to identify causal terms, then generate counterfactuals for training. | [git](https://github.com/tapilab/aaai-2021-counterfactuals)|
+| [Identifying Spurious Correlations for Robust Text Classification](https://arxiv.org/abs/2010.02458) <br> Zhao Wang and Aron Culotta     |  Matching to identify spurious word features | [git](https://github.com/tapilab/emnlp-2020-spurious)|
+| [Discovering and Controlling for Latent Confounds in Text
+Classification Using Adversarial Domain Adaptation](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975673.34) <br> Virgile Landeiro, Tuan Tran, and Aron Culotta     |  Control for unobserved confounders in text classification      | [git](https://github.com/tapilab/aaai-2016-robust)|
+| [Robust Text Classification under Confounding Shift](https://jair.org/index.php/jair/article/view/11248) <br> Virgile Landeiro and Aron Culotta     |  Control for changing confounders in text classification      | [git](https://github.com/tapilab/aaai-2016-robust)|
 
 
 # Applications in the Social Sciences
@@ -141,8 +146,9 @@ _Pull requests welcome!_
 ## Social Media
 | Title | Description | Code |
 |-------|-------------|------|
-| [Estimating the effect of exercising on users online behavior](http://ls3.rnet.ryerson.ca/wiki/images/e/e0/Ossm2017-amin.pdf) <br> Seyed Amin Mirlohi Falavarjani, Hawre Hosseini, Zeinab Noorian, Ebrahim Bagheri| Confouder: Pre-treatment topical interest shift. Confounding adjustment method: Matching on topic models. ||
-| [Distilling the outcomes of personal experiences: A propensity-scored analysis of social media](https://dl.acm.org/doi/pdf/10.1145/2998181.2998353?casa_token=U8iCSHz-uGUAAAAA:i9qcF0UCEH-lYKhTE9aA5RNMxFlvqfPW0tiHtUsh_lkmdV1F1O9ko9jPIl_nb8Cx5Rbtf4nn5JGq) <br> Alexandra Olteanu, Onur Varol, Emre Kiciman | Confouder: Past word use on Twitter. Confoudnig adjustment method: Stratified propensity score matching. ||
+| [Estimating the effect of exercising on users online behavior](http://ls3.rnet.ryerson.ca/wiki/images/e/e0/Ossm2017-amin.pdf) <br> Seyed Amin Mirlohi Falavarjani, Hawre Hosseini, Zeinab Noorian, Ebrahim Bagheri| Confounder: Pre-treatment topical interest shift. Confounding adjustment method: Matching on topic models. ||
+| [Distilling the outcomes of personal experiences: A propensity-scored analysis of social media](https://dl.acm.org/doi/pdf/10.1145/2998181.2998353?casa_token=U8iCSHz-uGUAAAAA:i9qcF0UCEH-lYKhTE9aA5RNMxFlvqfPW0tiHtUsh_lkmdV1F1O9ko9jPIl_nb8Cx5Rbtf4nn5JGq) <br> Alexandra Olteanu, Onur Varol, Emre Kiciman | Confounder: Past word use on Twitter. Confoundig adjustment method: Stratified propensity score matching. ||
 | [Using longitudinal social media analysis to understand the effects of early college alcohol use](http://kiciman.org/wp-content/uploads/2018/10/college_alcohol_tweets_icwsm18e.pdf) <br> Emre Kiciman, Scott Counts, Melissa Gasser |Confounder: Previous posts on Twitter. Confounding adjustment method: Stratified propensity score matching. ||
-
+| [Using Matched Samples to Estimate the Effects of
+Exercise on Mental Health from Twitter](https://ojs.aaai.org/index.php/AAAI/article/view/9205/9064) <br> Virgile Landeiro and Aron Culotta |Confounder: Gender, location, profile. Confounding adjustment method: Matching. |[git](https://github.com/tapilab/aaai-2015-matching)|
 
