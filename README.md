@@ -149,3 +149,7 @@ _Pull requests welcome!_
 | [Using longitudinal social media analysis to understand the effects of early college alcohol use](http://kiciman.org/wp-content/uploads/2018/10/college_alcohol_tweets_icwsm18e.pdf) <br> Emre Kiciman, Scott Counts, Melissa Gasser |Confounder: Previous posts on Twitter. Confounding adjustment method: Stratified propensity score matching. ||
 | [Using Matched Samples to Estimate the Effects of Exercise on Mental Health from Twitter](https://ojs.aaai.org/index.php/AAAI/article/view/9205/9064) <br> Virgile Landeiro and Aron Culotta |Confounder: Gender, location, profile. Confounding adjustment method: Matching. |[git](https://github.com/tapilab/aaai-2015-matching)|
 
+## Law
+| Title | Description | Code |
+|-------|-------------|------|
+| [Everything Has a Cause: Leveraging Causal Inference in Legal Text Analysis](https://aclanthology.org/2021.naacl-main.155.pdf)  <br> Xiao Liu, Da Yin, Yansong Feng, Yuting Wu, Dongyan Zhao | Built causal graphs from legal descriptions automatically, and disambiguated similar charges with the built graphs. Treatment & Confounders: factors from legal descriptions. |[git](https://github.com/xxxiaol/GCI) |
