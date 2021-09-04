@@ -45,7 +45,7 @@ _Pull requests welcome!_
 | Title | Description | Code |
 |-------|-------------|------|
 | [Adapting Text Embeddings for Causal Inference](https://arxiv.org/pdf/1905.12741.pdf) <br> Victor Veitch, Dhanya Sridhar, and David Blei      |  (also text as confounder) Adapts BERT embeddings for causal inference by predicting propensity scores and potential outcomes alongside masked language modeling objective.      |  [tensorflow](https://github.com/blei-lab/causal-text-embeddings) <br> [pytorch](https://github.com/rpryzant/causal-bert-pytorch)    |
-|       |             |      |
+| [Operationalizing Complex Causes: A Pragmatic View of Mediation](https://arxiv.org/abs/2106.05074) <br> Limor Gultchin, David Watson, Matt Kusner and Ricardo Silva| (can also be viewed as text as treatment) Develops a notion of pragmatic mediation which helps make causel effect estimation when complex objects, such as text, image or genomics are involved, across various intervention regimes. Identification of prgamtic mediators has an interpretability benefit which could guide the development of new interventions. | [git](https://github.com/limorigu/ComplexCauses) |
 
 ## Text as outcome
 
