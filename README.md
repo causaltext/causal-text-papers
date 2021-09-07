@@ -38,6 +38,7 @@ _Pull requests welcome!_
 | [Discovery of treatments from text corpora](https://www.aclweb.org/anthology/P16-1151.pdf) <br> Christian Fong, Justin Grimmer| Propose a new experimental design and statistical model to simultaneously discover treatments in a corpora and estimate causal effects for these discovered treatments. | 
 | [The effect of wording on message propagation: Topic and author-controlled natural experiments on twitter](https://arxiv.org/pdf/1405.1438.pdf) <br> Chenhao Tan, Lillian Lee, and Bo Pang | Controls for confouding by looking at Tweets containing the same url and written by the same user but employing different wording. | |
 | [When do Words Matter? Understanding the Impact of Lexical Choice on Audience Perception using Individual Treatment Effect Estimation](https://arxiv.org/abs/1811.04890) <br> Zhao Wang and Aron Culotta | Measure effect of words on reader's perception. Multiple quasi-experimental methods compared.| [git](https://github.com/tapilab/aaai-2019-words)|
+| [Graph Intervention Networks for Causal Effect Estimation](https://arxiv.org/pdf/2106.01939.pdf) <br> Jean Kaddour, Qi Liu, Yuchen Zhu, Matt J. Kusner, Ricardo Silva| Generalizes the Robinson decomposition, as used in R-learner or generalized random forests, to vectorized treatments (e.g. text, images, graphs). | [git](https://github.com/JeanKaddour/GIN) |
 
 ## Text as mediator
 
