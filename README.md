@@ -4,6 +4,29 @@ A collection of papers and codebases about influence, causality, and language.
 
 _Pull requests welcome!_
 
+# Table of Contents
+
+1. [Datasets and Simulations](#datasets-and-simulations)
+2. [Learning resources and blog posts](#learning-resources-and-blog-posts)
+3. [Causal Inference with Text Variables](#causal--inference-with-text-variables)
+    1. [Text as treatment](#text-as-treatment)
+    2. [Text as mediator](#text-as-mediator)
+    3. [Text as outcome](#text-as-outcome)
+    4. [Text as confounder](#text-as-confounder)
+3. [Causality to improve NLP](#causality-to-improve-nlp)
+    1. [Causal interpretations and explanations](#causal-interpretations-and-explanations)
+    2. [Sensitivity and rhobustness](#sensitivity-and-robustness)
+4. [Applications in the Social Sciences](#applications-in-the-social-sciences)
+    1. [Linguistics](#linguistics)
+    2. [Marketing](#marketing)
+    3. [Persuasion & Argumentation](#persuasion--argumentation)
+    4. [Mental health](#mental-health)
+    5. [Psychology](#psychology)
+    6. [Economics](#economics)
+    7. [Bias and Fairness](#bias-and-fairness)
+    8. [Social Media](#social-media)
+    9. [Law](#law)
+
 
 
 # Datasets and Simulations
