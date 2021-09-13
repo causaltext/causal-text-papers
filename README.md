@@ -26,6 +26,8 @@ _Pull requests welcome!_
     7. [Bias and Fairness](#bias-and-fairness)
     8. [Social Media](#social-media)
     9. [Law](#law)
+5. [Potential Connections to Language](#potential-connections-to-language)
+    1. [Vectorized treatments](#vectorized-treatments)
 
 
 
@@ -61,7 +63,7 @@ _Pull requests welcome!_
 | [Discovery of treatments from text corpora](https://www.aclweb.org/anthology/P16-1151.pdf) <br> Christian Fong, Justin Grimmer| Propose a new experimental design and statistical model to simultaneously discover treatments in a corpora and estimate causal effects for these discovered treatments. | 
 | [The effect of wording on message propagation: Topic and author-controlled natural experiments on twitter](https://arxiv.org/pdf/1405.1438.pdf) <br> Chenhao Tan, Lillian Lee, and Bo Pang | Controls for confouding by looking at Tweets containing the same url and written by the same user but employing different wording. | |
 | [When do Words Matter? Understanding the Impact of Lexical Choice on Audience Perception using Individual Treatment Effect Estimation](https://arxiv.org/abs/1811.04890) <br> Zhao Wang and Aron Culotta | Measure effect of words on reader's perception. Multiple quasi-experimental methods compared.| [git](https://github.com/tapilab/aaai-2019-words)|
-| [Graph Intervention Networks for Causal Effect Estimation](https://arxiv.org/pdf/2106.01939.pdf) <br> Jean Kaddour, Qi Liu, Yuchen Zhu, Matt J. Kusner, Ricardo Silva| Generalizes the Robinson decomposition, as used in R-learner or generalized random forests, to vectorized treatments (e.g. text, images, graphs). | [git](https://github.com/JeanKaddour/GIN) |
+
 
 ## Text as mediator
 
@@ -177,3 +179,11 @@ _Pull requests welcome!_
 | Title | Description | Code |
 |-------|-------------|------|
 | [Everything Has a Cause: Leveraging Causal Inference in Legal Text Analysis](https://aclanthology.org/2021.naacl-main.155.pdf)  <br> Xiao Liu, Da Yin, Yansong Feng, Yuting Wu, Dongyan Zhao | Built causal graphs from legal descriptions automatically, and disambiguated similar charges with the built graphs. Treatment & Confounders: factors from legal descriptions. |[git](https://github.com/xxxiaol/GCI) |
+
+# Potential Connections to Language
+
+## Vectorized treatments
+| Title | Description | Code |
+|-------|-------------|------|
+| [Graph Intervention Networks for Causal Effect Estimation](https://arxiv.org/pdf/2106.01939.pdf) <br> Jean Kaddour, Qi Liu, Yuchen Zhu, Matt J. Kusner, Ricardo Silva| Generalizes the Robinson decomposition, as used in R-learner or generalized random forests, to vectorized treatments (e.g. text, images, graphs). | [git](https://github.com/JeanKaddour/GIN) |
+
