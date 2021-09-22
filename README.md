@@ -26,6 +26,7 @@ _Pull requests welcome!_
     7. [Bias and Fairness](#bias-and-fairness)
     8. [Social Media](#social-media)
     9. [Law](#law)
+    10. [Online Hate Speech](#online-hate-speech)
 5. [Potential Connections to Language](#potential-connections-to-language)
     1. [Vectorized treatments](#vectorized-treatments)
 
@@ -179,6 +180,13 @@ _Pull requests welcome!_
 | Title | Description | Code |
 |-------|-------------|------|
 | [Everything Has a Cause: Leveraging Causal Inference in Legal Text Analysis](https://aclanthology.org/2021.naacl-main.155.pdf)  <br> Xiao Liu, Da Yin, Yansong Feng, Yuting Wu, Dongyan Zhao | Built causal graphs from legal descriptions automatically, and disambiguated similar charges with the built graphs. Treatment & Confounders: factors from legal descriptions. |[git](https://github.com/xxxiaol/GCI) |
+
+## Online Hate Speech
+| Title | Description | Code |
+|-------|-------------|------|
+| [A Survey of Online Hate Speech through the Causal Lens](https://arxiv.org/abs/2109.08120)  <br> Antigoni M. Founta, Lucia Specia | A survey of studies that measure causal effects related to online hate speech. The survey also highlights potential knowledge gaps and issues, and provides suggestions on how to further extend the causal perspective of hate speech. ||
+| [Robust Cyberbullying Detection with Causal Interpretation](https://dl.acm.org/doi/pdf/10.1145/3308560.3316503) <br> Lu Cheng, Ruocheng Guo, Huan Liu | Proposes a principled framework to identify and block the influence of plausible latent confounders on cyberbullying detection. ||
+| [Prevalence and Psychological Effects of Hateful Speech in Online College Communities](https://dl.acm.org/doi/pdf/10.1145/3292522.3326032) <br> Koustuv Saha, Eshwar Chandrasekharan, Munmun De Choudhury | Measure psychological effect of exposure to hate speech on Reddit communities, as increase in levels of stress. Confounders: Subreddit & User activity. Confounding adjustment method: Propensity score matching. ||
 
 # Potential Connections to Language
 
