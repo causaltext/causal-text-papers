@@ -26,7 +26,7 @@ _Pull requests welcome!_
     7. [Bias and Fairness](#bias-and-fairness)
     8. [Social Media](#social-media)
     9. [Law](#law)
-    10. [Online Hate Speech](#hate-speech)
+    10. [Online Hate Speech](#online-hate-speech)
 5. [Potential Connections to Language](#potential-connections-to-language)
     1. [Vectorized treatments](#vectorized-treatments)
 
