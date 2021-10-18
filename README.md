@@ -111,6 +111,8 @@ _Pull requests welcome!_
 | [Identifying Spurious Correlations for Robust Text Classification](https://arxiv.org/abs/2010.02458) <br> Zhao Wang and Aron Culotta     |  Matching to identify spurious word features | [git](https://github.com/tapilab/emnlp-2020-spurious)|
 | [Discovering and Controlling for Latent Confounds in Text Classification Using Adversarial Domain Adaptation](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975673.34) <br> Virgile Landeiro, Tuan Tran, and Aron Culotta     |  Control for unobserved confounders in text classification      | |
 | [Robust Text Classification under Confounding Shift](https://jair.org/index.php/jair/article/view/11248) <br> Virgile Landeiro and Aron Culotta     |  Control for changing confounders in text classification      | [git](https://github.com/tapilab/aaai-2016-robust)|
+| [Learning the Difference that Makes a Difference with Counterfactually-Augmented Data](https://arxiv.org/abs/1909.12434) <br> Divyansh Kaushik, Eduard Hovy, Zachary C. Lipton     | Introducing methods and resources for training models less sensitive to spurious patterns  | [git](https://github.com/acmi-lab/counterfactually-augmented-data)|
+| [Explaining The Efficacy of Counterfactually-Augmented Data](https://arxiv.org/abs/2010.02114) <br> Divyansh Kaushik, Amrith Setlur, Eduard Hovy, Zachary C. Lipton     | Explaining the efficacy of counterfactually-augmented data for training models less sensitive to spurious patterns| [git](https://github.com/acmi-lab/counterfactually-augmented-data) |
 
 
 # Applications in the Social Sciences
