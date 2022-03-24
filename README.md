@@ -73,6 +73,8 @@ _Pull requests welcome!_
 |-------|-------------|------|
 | [Adapting Text Embeddings for Causal Inference](https://arxiv.org/pdf/1905.12741.pdf) <br> Victor Veitch, Dhanya Sridhar, and David Blei      |  (also text as confounder) Adapts BERT embeddings for causal inference by predicting propensity scores and potential outcomes alongside masked language modeling objective.      |  [tensorflow](https://github.com/blei-lab/causal-text-embeddings) <br> [pytorch](https://github.com/rpryzant/causal-bert-pytorch)    |
 | [Operationalizing Complex Causes: A Pragmatic View of Mediation](https://arxiv.org/abs/2106.05074) <br> Limor Gultchin, David Watson, Matt Kusner and Ricardo Silva| (can also be viewed as text as treatment) Develops a notion of pragmatic mediation which helps make causel effect estimation when complex objects, such as text, image or genomics are involved, across various intervention regimes. Identification of prgamtic mediators has an interpretability benefit which could guide the development of new interventions. | [git](https://github.com/limorigu/ComplexCauses) |
+| [Text as Causal Mediators: Research Design for Causal Estimates of Differential Treatment of Social Groups via Language Aspects](https://aclanthology.org/2021.cinlp-1.2.pdf) <br> Katherine A. Keith, Douglas Rice, and Brendan O’Connor| Proposes a causal research design for observational (nonexperimental) data to estimate the natural direct and indirect effects of social group signals (e.g. race or gender) on speakers’ responses with separate aspects of language as causal mediators
+||
 
 ## Text as outcome
 
@@ -82,8 +84,7 @@ _Pull requests welcome!_
 |  [Estimating Causal Effects of Tone in Online Debates](https://arxiv.org/pdf/1906.04177.pdf) <br> Dhanya Sridhar and Lise Getoor    |  (Also text as confounder). Looks at effect of reply tone on the sentiment of subsiquent responses in online debates.         | [git](https://github.com/dsridhar91/debate-causal-effects)     |
 |  [How Judicial Identity Changes the Text of Legal Rulings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2620781) <br> Michael Gill and Andrew Hall |  Looks at how the random assignment of a female judge or a non-white judge affects the language of legal rulings. |      |
 | [Measuring semantic similarity of clinical trial outcomes using deep pre-trained language representations](https://www.sciencedirect.com/science/article/pii/S2590177X19300575)<br> Anna Koroleva,  Sanjay Kamath,  Patrick Paroubek ||
-| [Text as Causal Mediators: Research Design for Causal Estimates of Differential Treatment of Social Groups via Language Aspects] (https://aclanthology.org/2021.cinlp-1.2.pdf) <br> Katherine A. Keith, Douglas Rice, and Brendan O’Connor| Proposes a causal research design for observational (nonexperimental) data to estimate the natural direct and indirect effects of social group signals (e.g. race or gender) on speakers’ responses with separate aspects of language as causal mediators
-||
+
 
 ## Text as confounder
 
