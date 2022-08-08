@@ -145,6 +145,10 @@ _Pull requests welcome!_
 | [Influence via Ethos: On the Persuasive Power of Reputation in Deliberation Online](https://arxiv.org/pdf/2006.00707.pdf) <br> Emaad Manzoor, George H. Chen, Dokyun Lee, Michael D. Smith |Controls for unstructured argument text using neural models of language in the double machine-learning framework.||
 |       |             |      |
 
+## HealthCare 
+| Title | Description | Code |
+|-------|-------------|------|
+| [MIMICause: Representation and automatic extraction of causal relation types from clinical notes](https://aclanthology.org/2022.findings-acl.63/) <br> Vivek Khetan, Md Imbesat Rizvi, Jessica Huber, Paige Bartusiak, Bogdan Sacaleanu, Andrew Fano | This work proposed annotation guidelines, develop an annotated corpus, and provided baseline scores to identify types and direction of causal relations between a pair of biomedical concepts in clinical notes; communicated implicitly or explicitly identified either in a single sentence or across multiple sentences.||
 
 ## Mental Health 
 | Title | Description | Code |
