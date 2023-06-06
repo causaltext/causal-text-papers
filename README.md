@@ -95,7 +95,7 @@ _Pull requests welcome!_
 | [Adjusting for confounding with text matching](https://scholar.princeton.edu/sites/default/files/bstewart/files/textmatching_preprint.pdf) <br> Margaret E Roberts, Brandon M Stewart, and Richard A Nielsen |  Estimate a low-dimensional summary of the text and condition on this summary via matching to remove confouding. Proposes a method of text matching, topical inverse regression matching, that matches on both on the topical content and propensity score.||
 | [Matching with text data: An experimental evaluation of methods for matching documents and of measuring match quality](https://arxiv.org/pdf/1801.00644) <br> Reagan Mozer, Luke Miratrix, Aaron Russell Kaufman, L Jason Anastasopoulos | Characterizes and empirically evaluates a framework for matching text documents that decomposes existing methods into: the choice of text representation, and the choice of distance metric.||
 | [Learning representations for counterfactual inference](http://www.jmlr.org/proceedings/papers/v48/johansson16.pdf) <br> Fredrik Johansson, Uri Shalit, David Sontag | One of their semi-synthetic experiments has news content as a confounder. | |
-
+| [Conceptualizing Treatment Leakage in Text-based Causal Inference](https://arxiv.org/pdf/2205.00465.pdf) <br> Adel Daoud, Connor T. Jerzak, and Richard Johansson | Characterize the problem of the leakage of treatment signal when controlling for text-based confounders which  may lead to issues in identification and estimation. Simulation study on how treatment-leakage leads to issues with the estimation of the Average Treatment Effect (ATE) and how to mitigate this bias with text pre-processing by assuming separability. 
 
 
 # Causality to Improve NLP
