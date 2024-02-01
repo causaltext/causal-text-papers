@@ -84,7 +84,7 @@ _Pull requests welcome!_
 |  [Estimating Causal Effects of Tone in Online Debates](https://arxiv.org/pdf/1906.04177.pdf) <br> Dhanya Sridhar and Lise Getoor    |  (Also text as confounder). Looks at effect of reply tone on the sentiment of subsiquent responses in online debates.         | [git](https://github.com/dsridhar91/debate-causal-effects)     |
 |  [How Judicial Identity Changes the Text of Legal Rulings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2620781) <br> Michael Gill and Andrew Hall |  Looks at how the random assignment of a female judge or a non-white judge affects the language of legal rulings. |      |
 | [Measuring semantic similarity of clinical trial outcomes using deep pre-trained language representations](https://www.sciencedirect.com/science/article/pii/S2590177X19300575)<br> Anna Koroleva,  Sanjay Kamath,  Patrick Paroubek ||
-
+|  [Combining Human and Automated Scoring Methods in Experimental Assessments of Writing: A Case Study Tutorial](https://journals.sagepub.com/doi/10.3102/10769986231207886) <br> Reagan Mozer, Luke Miratrix, Jackie Relyea, James Kim    |  Presents a framework for evaluating treatment impacts across a large array of text features with case study based on a field trial in education.       | [git](https://github.com/reaganmozer/reads-replication)     |
 
 ## Text as confounder
 
@@ -153,6 +153,8 @@ _Pull requests welcome!_
 | Title | Description | Code |
 |-------|-------------|------|
 | [MIMICause: Representation and automatic extraction of causal relation types from clinical notes](https://aclanthology.org/2022.findings-acl.63/) <br> Vivek Khetan, Md Imbesat Rizvi, Jessica Huber, Paige Bartusiak, Bogdan Sacaleanu, Andrew Fano | This work proposed annotation guidelines, develop an annotated corpus, and provided baseline scores to identify types and direction of causal relations between a pair of biomedical concepts in clinical notes; communicated implicitly or explicitly identified either in a single sentence or across multiple sentences.||
+| [Leveraging text data for causal inference using electronic health records
+](https://arxiv.org/abs/2307.03687) <br> Reagan Mozer, Aaron Russell Kaufman, Luke Miratrix, Leo A Celi | Presents three different ways to leverage text within a causal inference pipeline: 1) using text to improve missing data imputation, 2) matching on text to adjust for confounding, and 3) using text to uncover treatment effect heterogeneity. ||
 
 ## Mental Health 
 | Title | Description | Code |
