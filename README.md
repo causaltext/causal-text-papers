@@ -85,6 +85,7 @@ _Pull requests welcome!_
 |  [How Judicial Identity Changes the Text of Legal Rulings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2620781) <br> Michael Gill and Andrew Hall |  Looks at how the random assignment of a female judge or a non-white judge affects the language of legal rulings. |      |
 | [Measuring semantic similarity of clinical trial outcomes using deep pre-trained language representations](https://www.sciencedirect.com/science/article/pii/S2590177X19300575)<br> Anna Koroleva,  Sanjay Kamath,  Patrick Paroubek ||
 |  [Combining Human and Automated Scoring Methods in Experimental Assessments of Writing: A Case Study Tutorial](https://journals.sagepub.com/doi/10.3102/10769986231207886) <br> Reagan Mozer, Luke Miratrix, Jackie Relyea, James Kim    |  Presents a framework for evaluating treatment impacts across a large array of text features with case study based on a field trial in education.       | [git](https://github.com/reaganmozer/reads-replication)     |
+| [Decreasing the human coding burden in randomized trials with text-based outcomes via model-assisted impact analysis](https://arxiv.org/abs/2309.13666) <br> Reagan Mozer and Luke Miratrix | Proposes a model-assisted impact estimator for increasing the power/efficiency of an impact analysis based on human-coded text outcomes. ||
 
 ## Text as confounder
 
